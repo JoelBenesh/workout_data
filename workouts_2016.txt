@@ -2,7 +2,7 @@ Sept 10, legs, 1-2:20, 95.8
 Sept 11, chest, 7-8:10, 95.7
 Sept 12, arms, 1-2, 93.9
 Sept 13, back, 4:50-5:30, 94.1
-Sept 14, shoulders, 1-2:20
+Sept 14, sho, 1-2:20, NaN
 Sept 17, legs, 12-1:20, 95.4
 Sept 19, chest, 1:35-2:30, 95.8
 Sept 21, back, 1-1:50, 95.8
