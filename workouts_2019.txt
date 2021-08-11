@@ -1,204 +1,187 @@
-Jan 4, chest at 12:40-1:20, 99.6 
-Jan 14, legs at 12:40-1:20, 98.5
-Jan 15, back at 1:10-1:50, 98.3
-Jan 16, chest at 12:40-1:20, 100.4
-Jan 17, legs at 1-1:45, 99.8
-Jan 19, back at 6:50-7:40, 98.7
-Jan 20, chest at 7:40-8:20, 99.2
-Jan 28, legs at 10:30-11:20  99.4
-Jan 30, back at 3:30-4:15, 98.5
-Jan 31, chest at 1:10-2, 100
-
-Feb 4, chest at 3:40-5, 99.2
-Feb 5, legs at 1-1:50, 99.3
-Feb 6, back at 8:50-9:50, 101.2
-Feb 7, legs at 4:20-5:10, 101.1
-Feb 13, chest at 12:30-1:30, 99.2
-Feb 25, legs at 12:40-1:40, 99.8
-Feb 27, back at 12:30-1:40, 99
-Feb 28, chest at 1:10-2:10, 99.3
-
-Mar 1, legs at 12:30-1:30, 99
-Mar 2, shoulders at 6-7, 98.6
-Mar 3, chest at 4:30-5:20, 98.6
-Mar 4, legs at 12:35-1:35, 97.5
-Mar 5, back at 4:20-5-20, 97
-Mar 6, legs at 5:30-6:20, 97.2
-Mar 7, sho, at 1-1:50, 97.3
-Mar 8, chest at 12:40-1:40, 97.2
-Mar 9, legs at 4:10-5, 98.6
-Mar 10, back at 5-5:50, 99.4
-Mar 11, legs at 12:30-1:15, 98.9
-Mar 12, sho at 1:10-2:10, 97.8
-Mar 14, chest at 1:05-2, 98.8
-Mar 17, legs at 3:10-3:50, 97.5
-Mar 18, back at 12:45-1:35, 97.8
-Mar 19, legs at 1:20-2:20, 97.4
-Mar 20, sho at 3:30-2:20, 98.4
-Mar 21, chest at 1:10-2, 97.9
-Mar 22, legs at 12:50-1:25, 97
-Mar 23, back at 11:30-12:30, 95.7
-Mar 24, legs at 9-9:40, 94.2
-Mar 25, push at 8:20-9:05, 95
-Mar 26, pull at 8:40-9:30, 95.6
-Mar 27, sho at 8:15-9, 95.5
-Mar 28, legs at 8:15-9, 95.8
-Mar 29, push at 8:15-9, 95.6
-Mar 30, pull at 10:15-11, 95.3
-Mar 31, sho at 10:20-11:10, 96.2
-
-Apr 1, legs at 8:10-9, 96.3
-Apr 2, push at 8:10-8:50, 96
-Apr 3, pull at 8:15-9, 96
-Apr 4, sho at 8:10-9, 96.7
-Apr 5, legs at 12:40-1:20, 96.6
-Apr 6, push at 11:40-12:30, 97.7
-Apr 7, pull at 9:40-10:25, 97
-Apr 8, sho at 8-8:40, 96.5
-Apr 9, legs at 12:30-1:20, 97
-Apr 10, push at 10:20-11:15, 97.8
-Apr 11, pull at 11:20-12:10, 98
-Apr 12, sho at 7:20-8, 97.1
-Apr 13, legs at 1:45-2:40, 97.1
-Apr 14, push at 7:20-8:20, 97.6
-Apr 15, pull at 8-8:50, 97.6
-Apr 16, sho at 6:45-7:35, 97.1
-Apr 17, legs at 7:20-7:55, 96.1
-Apr 20, push at 10:40-11:30, 96.5
-Apr 21, pull at 7:50-8:55, 96.3
-Apr 22, sho at 8:30-9:35, 96.8
-
-Summer 2019 
-
-Apr 23, legs at 8:10-9:10, 95.9
-Apr 24, push at 7:50-9, 95.7
-Apr 25, pull at 6-7, 96.2
-Apr 26, sho at 7:20-8, 97
-Apr 27, legs at 8:15-9:20, 97
-Apr 28, push at 6:20-7:20, 95.3, 225x3
-Apr 29, pull at 9-10, 95.6
-Apr 30, legs at 7:10-8, 97.3, 365
-
-May 1, sho at 8-8:45, 98.1
-May 2, push at 8:40-9:30, 96.7
-May 3, pull at 7-8, 97
-May 4, legs at 4:30-5:20, 95.3
-May 5, sho at 9-9:45, 95
-May 6, chest at 5:50-7, 96
-May 7, back at 8:45-9:30, 95.5
-May 8, legs at 4-5, 95.7
-May 9, sho at 2-3, 95
-May 10, chest at 4:10-5:45, 95.6
-May 11, back at 7:20-8:25, 97
-May 12, sho at 8:35, 9:35, 96.7
-
-May 14, chest at 6:45-8, 97.3
-May 15, back at 4:45-6:50, 96.8
-May 16, legs at 5:20-6:30, 95.8, renos 
-May 17, sho at 1:10-1:55, 95.8
-May 18, chest at 7:10-8:20, 96.3
-May 19, back at 8:20-9:15, 96.5
-May 21, sho at 3:40-4:15, 94.4, real renos
-May 22, legs at 7:45-8:45, 97 goodlife
-May 23, chest at 7-8:10, 96
-May 24, back at 12:40-2, 95.3
-May 27, sho at 5:20-6, 95.5
-May 28, legs at 4-5, 95.6
-May 29, chest at 6:10-7, 95
-May 30, back at 5:50-6:45, 97.5
-
-June 4, legs at 9:15-10,15, 97, 385 squat
-June 5, sho at 9:40-10:30, 98
-June 6, chest at 8:45-9:50, 97.2
-June 10, back at 6:40-7:40, 97.9
-June 11, sho at 7:40-8, 96.8
-June 12, legs at 6:15-7:30, 95
-June 14, chest at 11:30-1:10, 94.5
-June 15, back at 1:40-3:05, 96.8
-June 16, sho at 8:10-8:40
-June 17, legs at 5:20-6:45, 97.1
-June 22, chest at 6-6:25, 96.8
-
-July 11, back at 12:50-1:50, 94.5
-July 12, legs at 11:35-12:40, 94.5
-
-School year 2019 
-
-1. Aug 30, back at 7:30-8:30, 90.5
-
-2. Sep 1, legs at 10:10-11, 91.4
-3. Sep 3, chest at 7:15-8:15, 91.2
-4. Sep 4, back at 7:20-8:15, 91.2
-5. Sep 5, legs at 7:20-8, 90.8
-6. Sep 6, chest at 3:40-4:50, 91
-7. Sep 10, back at 10-11, 93
-8. Sep 11, legs at 7:30-8:26, 92.5
-9. Sep 12, chest at 7:20-8:15, 93.9
-10. Sep 13, back at 11:35-12:10, 92.8
-11. Sep 15, legs at 4:20-5:20, 94.4
-12. Sep 16, chest at 12:40-1:10, 94.2
-13. Sep 17, back at 7:25--8:10, 94.8
-14. Sep 18, legs at 9:30-10:20, 94.9
-15. Sep 19, chest at 3:45-4:25, 93.8
-16. Sep 22, back at 2:10-3, 93.8
-17. Sep 23, legs at 9:40-10:20, 92.6
-18. Sep 24, chest at 12-12:40, 95
-19. Sep 25, back at 3:40-4:40, 94.7
-20. Sep 26, legs at 6-6:45, 94.1
-21. Sep 27, chest at 3:40-4:40, 93.4
-22. Sep 29, back at 2:25-3:40, 95.8
-23. Sep 30, legs at 8:50-9:40, 95
-
-24. Oct 1, chest at 10-10:40, 94.3
-25. Oct 3, back at 7:35-8:20, 94.8
-26. Oct 4, legs at 4:25-5, 94
-27. Oct 5, chest at 11:15-12:20, 94.4
-28. Oct 6, back at 11:30-12:20, 95.2
-29. Oct 7, legs at 9:30-10:20, 96
-30. Oct 8, chest at 10-11, 97
-31. Oct 10, back at 10-10:35, 96.1
-32. Oct 11, legs at 4-4:40, 96.4
-33. Oct 15, chest at 10:10-11:20, 97
-34. Oct 16, back at 11:35-10:25, 95.6
-35. Oct 17, legs at 2:40-3:10, 95.4
-36. Oct 18, chest at 4:20-5:20, 97.1
-37. Oct 20, back at 5:15-6:15, 97.7
-38. Oct 21, legs at 9:30-10, 97
-39. Oct 22, chest at 8:20-9:10, 95.3
-40. Oct 23, legs at 12-12:40, 95.8
-41. Oct 24, back at 9:45-10:30, 97.3
-42. Oct 25, chest at 11:30-12:20, 96.4
-43. Oct 29, legs at 10-10-50, 96.3
-
-44. Nov 1, back at 11:35-12:20, 96.5
-45. Nov 2, chest at 5:30-6:30, 96.9
-46. Nov 5, legs at 7-8, 95.3
-47. Nov 6, back at 3:40-4:20, 94.6
-48. Nov 7, chest at 10-10:50, 95.4
-49. Nov 9, legs at 4:10-5, 96
-50. Nov 10, back at 10:30-11:20, 95.2
-51. Nov 12, chest at 8-9, 97.7
-52. Now 15, legs at 6-6:50, 95.7
-53. Nov 17, back at 3:45-4:35, 98.9
-54. Nov 18, chest at 8-9, 97.6
-55. Nov 19, legs at 10-10:50, 97.2
-56. Nov 20, back at 8:40-9:45, 97.6
-57. Nov 21, chest at 12-1, 97
-58. Nov 25, legs at 5-5:50, 96.2
-59. Nov 29, back at 5:15-6:30, 97
-
-60. Dec 1, chest at 2:40-3:3:30, 97.6
-61. Dec 2, legs at 11:45-12:20, 97.4
-62. Dec 3,back at 10-11, 95.7
-63. Dec 4, chest at 9:30-10:10, 95
-64. Dec 5, back at 10:15-11:15, 94.6
-65. Dec 6, sho at 12-12:45, 95.2
-66. Dec 7, legs at 8:50:10, 94.9
-67. Dec 8, chest at 6-7, 94.9
-68. Dec 9, back at 8-9:15, 94.6
-69. Dec 10, legs at 7:30-8:30, 95
-70. Dec 11, chest at 6:45-7:40, 95
-71. Dec 12, sho at 8-8:45, 95.7
-72. Dec 13, back at 10-10:40, 95.7
-73. Dec 17, legs at 12-12:40, 94.5
-74. Dec 19, chest at 8:15-9:15, 95.3
+Jan 4, chest, 12:40-1:20, 99.6 
+Jan 14, legs, 12:40-1:20, 98.5
+Jan 15, back, 1:10-1:50, 98.3
+Jan 16, chest, 12:40-1:20, 100.4
+Jan 17, legs, 1-1:45, 99.8
+Jan 19, back, 6:50-7:40, 98.7
+Jan 20, chest, 7:40-8:20, 99.2
+Jan 28, legs, 10:30-11:20  99.4
+Jan 30, back, 3:30-4:15, 98.5
+Jan 31, chest, 1:10-2, 100
+Feb 4, chest, 3:40-5, 99.2
+Feb 5, legs, 1-1:50, 99.3
+Feb 6, back, 8:50-9:50, 101.2
+Feb 7, legs, 4:20-5:10, 101.1
+Feb 13, chest, 12:30-1:30, 99.2
+Feb 25, legs, 12:40-1:40, 99.8
+Feb 27, back, 12:30-1:40, 99
+Feb 28, chest, 1:10-2:10, 99.3
+Mar 1, legs, 12:30-1:30, 99
+Mar 2, shoulders, 6-7, 98.6
+Mar 3, chest, 4:30-5:20, 98.6
+Mar 4, legs, 12:35-1:35, 97.5
+Mar 5, back, 4:20-5-20, 97
+Mar 6, legs, 5:30-6:20, 97.2
+Mar 7, sho, 1-1:50, 97.3
+Mar 8, chest, 12:40-1:40, 97.2
+Mar 9, legs, 4:10-5, 98.6
+Mar 10, back, 5-5:50, 99.4
+Mar 11, legs, 12:30-1:15, 98.9
+Mar 12, sho, 1:10-2:10, 97.8
+Mar 14, chest, 1:05-2, 98.8
+Mar 17, legs, 3:10-3:50, 97.5
+Mar 18, back, 12:45-1:35, 97.8
+Mar 19, legs, 1:20-2:20, 97.4
+Mar 20, sho, 3:30-2:20, 98.4
+Mar 21, chest, 1:10-2, 97.9
+Mar 22, legs, 12:50-1:25, 97
+Mar 23, back, 11:30-12:30, 95.7
+Mar 24, legs, 9-9:40, 94.2
+Mar 25, chest, 8:20-9:05, 95
+Mar 26, back, 8:40-9:30, 95.6
+Mar 27, sho, 8:15-9, 95.5
+Mar 28, legs, 8:15-9, 95.8
+Mar 29, chest, 8:15-9, 95.6
+Mar 30, back, 10:15-11, 95.3
+Mar 31, sho, 10:20-11:10, 96.2
+Apr 1, legs, 8:10-9, 96.3
+Apr 2, chest, 8:10-8:50, 96
+Apr 3, back, 8:15-9, 96
+Apr 4, sho, 8:10-9, 96.7
+Apr 5, legs, 12:40-1:20, 96.6
+Apr 6, chest, 11:40-12:30, 97.7
+Apr 7, back, 9:40-10:25, 97
+Apr 8, sho, 8-8:40, 96.5
+Apr 9, legs, 12:30-1:20, 97
+Apr 10, chest, 10:20-11:15, 97.8
+Apr 11, back, 11:20-12:10, 98
+Apr 12, sho, 7:20-8, 97.1
+Apr 13, legs, 1:45-2:40, 97.1
+Apr 14, chest, 7:20-8:20, 97.6
+Apr 15, back, 8-8:50, 97.6
+Apr 16, sho, 6:45-7:35, 97.1
+Apr 17, legs, 7:20-7:55, 96.1
+Apr 20, chest, 10:40-11:30, 96.5
+Apr 21, back, 7:50-8:55, 96.3
+Apr 22, sho, 8:30-9:35, 96.8
+Apr 23, legs, 8:10-9:10, 95.9
+Apr 24, chest, 7:50-9, 95.7
+Apr 25, back, 6-7, 96.2
+Apr 26, sho, 7:20-8, 97
+Apr 27, legs, 8:15-9:20, 97
+Apr 28, chest, 6:20-7:20, 95.3
+Apr 29, back, 9-10, 95.6
+Apr 30, legs, 7:10-8, 97.3
+May 1, sho, 8-8:45, 98.1
+May 2, chest, 8:40-9:30, 96.7
+May 3, back, 7-8, 97
+May 4, legs, 4:30-5:20, 95.3
+May 5, sho, 9-9:45, 95
+May 6, chest, 5:50-7, 96
+May 7, back, 8:45-9:30, 95.5
+May 8, legs, 4-5, 95.7
+May 9, sho, 2-3, 95
+May 10, chest, 4:10-5:45, 95.6
+May 11, back, 7:20-8:25, 97
+May 12, sho, 8:35, 9:35, 96.7
+May 14, chest, 6:45-8, 97.3
+May 15, back, 4:45-6:50, 96.8
+May 16, legs, 5:20-6:30, 95.8
+May 17, sho, 1:10-1:55, 95.8
+May 18, chest, 7:10-8:20, 96.3
+May 19, back, 8:20-9:15, 96.5
+May 21, sho, 3:40-4:15, 94.4
+May 22, legs, 7:45-8:45, 97
+May 23, chest, 7-8:10, 96
+May 24, back, 12:40-2, 95.3
+May 27, sho, 5:20-6, 95.5
+May 28, legs, 4-5, 95.6
+May 29, chest, 6:10-7, 95
+May 30, back, 5:50-6:45, 97.5
+June 4, legs, 9:15-10,15, 97
+June 5, sho, 9:40-10:30, 98
+June 6, chest, 8:45-9:50, 97.2
+June 10, back, 6:40-7:40, 97.9
+June 11, sho, 7:40-8, 96.8
+June 12, legs, 6:15-7:30, 95
+June 14, chest, 11:30-1:10, 94.5
+June 15, back, 1:40-3:05, 96.8
+June 16, sho, 8:10-8:40, NaN
+June 17, legs, 5:20-6:45, 97.1
+June 22, chest, 6-6:25, 96.8
+July 11, back, 12:50-1:50, 94.5
+July 12, legs, 11:35-12:40, 94.5
+Aug 30, back, 7:30-8:30, 90.5
+Sep 1, legs, 10:10-11, 91.4
+Sep 3, chest, 7:15-8:15, 91.2
+Sep 4, back, 7:20-8:15, 91.2
+Sep 5, legs, 7:20-8, 90.8
+Sep 6, chest, 3:40-4:50, 91
+Sep 10, back, 10-11, 93
+Sep 11, legs, 7:30-8:26, 92.5
+Sep 12, chest, 7:20-8:15, 93.9
+Sep 13, back, 11:35-12:10, 92.8
+Sep 15, legs, 4:20-5:20, 94.4
+Sep 16, chest, 12:40-1:10, 94.2
+Sep 17, back, 7:25--8:10, 94.8
+Sep 18, legs, 9:30-10:20, 94.9
+Sep 19, chest, 3:45-4:25, 93.8
+Sep 22, back, 2:10-3, 93.8
+Sep 23, legs, 9:40-10:20, 92.6
+Sep 24, chest, 12-12:40, 95
+Sep 25, back, 3:40-4:40, 94.7
+Sep 26, legs, 6-6:45, 94.1
+Sep 27, chest, 3:40-4:40, 93.4
+Sep 29, back, 2:25-3:40, 95.8
+Sep 30, legs, 8:50-9:40, 95
+Oct 1, chest, 10-10:40, 94.3
+Oct 3, back, 7:35-8:20, 94.8
+Oct 4, legs, 4:25-5, 94
+Oct 5, chest, 11:15-12:20, 94.4
+Oct 6, back, 11:30-12:20, 95.2
+Oct 7, legs, 9:30-10:20, 96
+Oct 8, chest, 10-11, 97
+Oct 10, back, 10-10:35, 96.1
+Oct 11, legs, 4-4:40, 96.4
+Oct 15, chest, 10:10-11:20, 97
+Oct 16, back, 11:35-10:25, 95.6
+Oct 17, legs, 2:40-3:10, 95.4
+Oct 18, chest, 4:20-5:20, 97.1
+Oct 20, back, 5:15-6:15, 97.7
+Oct 21, legs, 9:30-10, 97
+Oct 22, chest, 8:20-9:10, 95.3
+Oct 23, legs, 12-12:40, 95.8
+Oct 24, back, 9:45-10:30, 97.3
+Oct 25, chest, 11:30-12:20, 96.4
+Oct 29, legs, 10-10-50, 96.3
+Nov 1, back, 11:35-12:20, 96.5
+Nov 2, chest, 5:30-6:30, 96.9
+Nov 5, legs, 7-8, 95.3
+Nov 6, back, 3:40-4:20, 94.6
+Nov 7, chest, 10-10:50, 95.4
+Nov 9, legs, 4:10-5, 96
+Nov 10, back, 10:30-11:20, 95.2
+Nov 12, chest, 8-9, 97.7
+Now 15, legs, 6-6:50, 95.7
+Nov 17, back, 3:45-4:35, 98.9
+Nov 18, chest, 8-9, 97.6
+Nov 19, legs, 10-10:50, 97.2
+Nov 20, back, 8:40-9:45, 97.6
+Nov 21, chest, 12-1, 97
+Nov 25, legs, 5-5:50, 96.2
+Nov 29, back, 5:15-6:30, 97
+Dec 1, chest, 2:40-3:3:30, 97.6
+Dec 2, legs, 11:45-12:20, 97.4
+Dec 3,back, 10-11, 95.7
+Dec 4, chest, 9:30-10:10, 95
+Dec 5, back, 10:15-11:15, 94.6
+Dec 6, sho, 12-12:45, 95.2
+Dec 7, legs, 8:50:10, 94.9
+Dec 8, chest, 6-7, 94.9
+Dec 9, back, 8-9:15, 94.6
+Dec 10, legs, 7:30-8:30, 95
+Dec 11, chest, 6:45-7:40, 95
+Dec 12, sho, 8-8:45, 95.7
+Dec 13, back, 10-10:40, 95.7
+Dec 17, legs, 12-12:40, 94.5
+Dec 19, chest, 8:15-9:15, 95.3
