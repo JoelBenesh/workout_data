@@ -72,13 +72,13 @@ Apr 22, legs, 6:45-7:20, 98.9
 Apr 23, chest, 3:30-4:20, 97.9
 Apr 24, back, 4:40-5:30, 99
 Apr 25, chest, 5-6, 98.5
-May 4, chest, 12-1
-May 5, back, 12:20-1:15
-May 6, legs, 12:20-1:05
-May 7, chest, 5:55-7:05
-May 8, back, 4:55-5:50
-May 10, chest, 5-5:50
-May 11, back, 8:45-9:45
+May 4, chest, 12-1, NaN
+May 5, back, 12:20-1:15, NaN
+May 6, legs, 12:20-1:05, NaN
+May 7, chest, 5:55-7:05, NaN
+May 8, back, 4:55-5:50, NaN
+May 10, chest, 5-5:50, NaN
+May 11, back, 8:45-9:45, NaN
 May 12, chest, 4:35-5:40, 97.9
 May 13, back, 3:25-4:15, 98.5
 May 15, chest, 8:50-9:40, 98.6
